@@ -1,0 +1,15 @@
+{
+  "name": "rubiconsult",
+  "version": "1.0.0",
+  "description": "itsnotadescription",
+  "license": "ISC",
+  "author": "Henrique Regatieri",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "serve": "serve -l 3000 --cors --no-clipboard"
+  },
+  "devDependencies": {
+    "serve": "^14.2.4"
+  }
+}
